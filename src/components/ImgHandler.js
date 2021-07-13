@@ -169,6 +169,7 @@ const goshaArray = [
                             [goshawonderful, goshawonderfulhit, '80-100','6+4','0','0','-21','F: 1'],
                                 [nodata, nodata, 'N/A','N/A','N/A','N/A','N/A','N/A'],
                                     [nodata, nodata, 'N/A','N/A','N/A','N/A','N/A','N/A'],
+                                        [nodata, nodata, 'N/A','N/A','N/A','N/A','N/A','N/A']
 ]
 const allArray = [
     punchArray,
