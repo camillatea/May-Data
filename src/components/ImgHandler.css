@@ -4,6 +4,8 @@
     flex-direction: row;
     flex-wrap: wrap;
     justify-content:center;
+    -webkit-filter: drop-shadow(0 20px 20px rgba(0, 0, 0, 1));
+    filter: drop-shadow(0 20px 20px rgba(0, 0, 0, 1));
 }
 
 .display-box {
@@ -54,10 +56,11 @@
 }
 
 .img-big-wrap {
-    border: 1px solid #9c9cad;
     border-radius: 10px;
     width: 500px;
     height: 500px;
+    background: rgba(255,255,255,0.3);
+    margin-top: 10px;
 }
 
 
